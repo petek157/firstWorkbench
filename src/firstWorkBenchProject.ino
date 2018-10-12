@@ -5,9 +5,12 @@
  * Date:
  */
 
+int test = 0;
+
 // setup() runs once, when the device is first turned on.
 void setup() {
   // Put initialization like pinMode and begin functions here.
+  test = 2;
 
 }
 
